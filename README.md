@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Install
 
-    $ git clone https://github.com/ORG/PROJECT.git
-    $ cd PROJECT
+    $ git clone https://github.com/olessiap/Github-Top-Starred-Repositories.git
+    $ cd Github-Top-Starred-Repositories
     $ npm install
 
 ## Start & watch
