@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GithubTopStarredRepositories/static/css/main.5a50f497.chunk.css",
+    "main.js": "/GithubTopStarredRepositories/static/js/main.cdf4213d.chunk.js",
+    "main.js.map": "/GithubTopStarredRepositories/static/js/main.cdf4213d.chunk.js.map",
+    "runtime-main.js": "/GithubTopStarredRepositories/static/js/runtime-main.d06725b6.js",
+    "runtime-main.js.map": "/GithubTopStarredRepositories/static/js/runtime-main.d06725b6.js.map",
+    "static/js/2.9dd1c8d4.chunk.js": "/GithubTopStarredRepositories/static/js/2.9dd1c8d4.chunk.js",
+    "static/js/2.9dd1c8d4.chunk.js.map": "/GithubTopStarredRepositories/static/js/2.9dd1c8d4.chunk.js.map",
+    "index.html": "/GithubTopStarredRepositories/index.html",
+    "precache-manifest.e600603dcb4ffbd7bd17c4f68da9d330.js": "/GithubTopStarredRepositories/precache-manifest.e600603dcb4ffbd7bd17c4f68da9d330.js",
+    "service-worker.js": "/GithubTopStarredRepositories/service-worker.js",
+    "static/css/main.5a50f497.chunk.css.map": "/GithubTopStarredRepositories/static/css/main.5a50f497.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d06725b6.js",
+    "static/js/2.9dd1c8d4.chunk.js",
+    "static/css/main.5a50f497.chunk.css",
+    "static/js/main.cdf4213d.chunk.js"
+  ]
+}
